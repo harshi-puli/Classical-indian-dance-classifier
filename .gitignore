@@ -1,0 +1,56 @@
+# Python virtual environments
+natyam/
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyTorch/ML model files
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pkl
+*.pickle
+
+# Data files (optional - uncomment if you don't want to commit images)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+
+# Training outputs
+*.png
+*.pdf
+*.csv
+temp_*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
